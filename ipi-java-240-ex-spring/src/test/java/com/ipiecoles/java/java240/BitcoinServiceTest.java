@@ -12,6 +12,8 @@ import org.mockito.junit.MockitoJUnitRunner;
 
 import java.io.IOException;
 
+//Test en JUnit4
+
 @RunWith(MockitoJUnitRunner.class)
 public class BitcoinServiceTest {
 

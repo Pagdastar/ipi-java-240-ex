@@ -1,6 +1,5 @@
 package com.ipiecoles.java.java240;
 
-
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -10,6 +9,8 @@ import org.springframework.test.context.ActiveProfiles;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import java.io.IOException;
+
+//Test en JUnit4
 
 @SpringBootTest
 @RunWith(SpringJUnit4ClassRunner.class)
