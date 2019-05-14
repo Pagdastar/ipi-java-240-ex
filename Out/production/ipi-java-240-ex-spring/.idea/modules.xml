@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ipi-java-240-ex-spring/ipi-java-240-ex.iml" filepath="$PROJECT_DIR$/ipi-java-240-ex-spring/ipi-java-240-ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ipi-java-240-ex-spring.iml" filepath="$PROJECT_DIR$/.idea/ipi-java-240-ex-spring.iml" />
+    </modules>
+  </component>
+</project>
